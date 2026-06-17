@@ -1,8 +1,7 @@
 # JoyTechAI Toolkit
 
 Recursos, ejemplos y casos prácticos de aplicación de IA en ingeniería
-y automatización industrial, desarrollados por el equipo JoyTechAI
-(DUTT Electronics).
+y automatización industrial, desarrollados por el equipo JoyTechAI.
 
 ## Contenido
 
@@ -15,8 +14,7 @@ y automatización industrial, desarrollados por el equipo JoyTechAI
 
 ## Sobre JoyTechAI
 
-Proyecto de DUTT Electronics (Albiztur, Gipuzkoa) para documentar y
-compartir conocimiento aplicado de IA en entornos industriales.
+Documentar y compartir conocimiento aplicado de IA en entornos industriales.
 
 ## Licencia
 
