@@ -1,1 +1,0 @@
-# orto-ocaso-solar-st
