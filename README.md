@@ -3,14 +3,12 @@
 Recursos, ejemplos y casos prácticos de aplicación de IA en ingeniería
 y automatización industrial, desarrollados por el equipo JoyTechAI.
 
-## Contenido
+## Proyectos
 
-- **01-fundamentos-redes**: progresión didáctica desde el perceptrón
-  hasta RL clásico.
-- **02-apis-agentes**: agentes, RAG, integración PC↔PLC, casos reales
-  generalizados.
-- **03-nivel-usuario**: prompting, casos prácticos de uso de IA en
-  el día a día de ingeniería.
+- **P001_ParaQueLaIA**: "Lo que hemos aprendido aplicando IA" — documento/presentación
+  (JoyTechAI_ParaQueLaIA_v01.pdf) de Jesús Oscar Alegría y Jon Alegría (agosto 2026)
+  que explica qué es JoyTechAI, qué es la IA, cómo implantarla en una empresa,
+  casos reales de trabajo, demostraciones rápidas y documentación viva.
 
 ## Sobre JoyTechAI
 

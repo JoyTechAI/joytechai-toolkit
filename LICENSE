@@ -1,3 +1,14 @@
+This repository uses two licenses depending on the type of content:
+
+- Código (software): licencia MIT — ver más abajo.
+- Documentación y contenidos (PDFs, presentaciones, textos explicativos):
+  licencia Creative Commons Attribution 4.0 International (CC BY 4.0) — ver
+  más abajo.
+
+================================================================================
+CÓDIGO — MIT License
+================================================================================
+
 MIT License
 
 Copyright (c) 2026 JoyTechAI
@@ -19,3 +30,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+DOCUMENTACIÓN Y CONTENIDOS — Creative Commons Attribution 4.0 (CC BY 4.0)
+================================================================================
+
+Copyright (c) 2026 Jesús Oscar Alegría & Jon Alegría — JoyTechAI
+
+Contenido bajo licencia Creative Commons BY 4.0 (CC BY 4.0) — libre uso y
+adaptación citando la autoría.
+
+Texto completo de la licencia: https://creativecommons.org/licenses/by/4.0/
+
+Este documento se ha elaborado con el máximo cuidado, pero puede contener
+errores u omisiones; los autores no se hacen responsables del uso que se haga
+de su contenido.
